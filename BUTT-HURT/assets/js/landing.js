@@ -5,13 +5,14 @@ function whenButtonClicked() {
         alert("IT HAS STARTED MWUHAHAHAHA");
         alert("YOUR BUTT IS SORE AINT IT");
         alert("YOU SHOULD NOT HAVE BEEN SITTING FOR THIS LONG");
-        alert("LOOK AT WHAT IS HAPPENING");
+        alert("YOU SHOULD STAND UP RIGHT NOW");
+        alert("STAND UP");
         alert("WE ARE TRYING TO HELP YOU");
         alert("HACKING INTO YOUR COMPUTER");
-        alert("WOWWWW YOUR SOCIAL MEDIA IS FILLED WITH INFORMATION");
-        alert("MUST SAVE BUTT");
+        alert("YOUR SOCIAL MEDIA IS FILLED WITH INFORMATION");
+        alert("MUST SAVE THE BUTT");
         alert("SWEAT HUMAN SWEAT");
-        alert("WE ARE TRYING TO HELP YOU");
+        alert("LET THE HACKING BEGIN");
     }
     
     setTimeout(openpopups, 10000);
