@@ -1,2 +1,2 @@
 # Friendly-Noodles-JS
-here we go again
+Redo of Friendly Noodles but in javascript
