@@ -1,3 +1,4 @@
+
 /* Styles that are applicable to the entire site etc */
 @import url('https://fonts.googleapis.com/css2?family=Asap:wght@600&display=swap');
 * {
@@ -25,7 +26,9 @@ body, html {
     text-align: center;
     font-family: sans-serif;
     font-size: 20px;
+    background-image: url("../images/background.png");
 }
+
 
 .timer {
     margin: 20px auto;
@@ -36,3 +39,10 @@ body, html {
     font-size: 100px;
     text-align: center;
 }
+
+h1
+{
+	text-align: center;
+	color: brown;
+}
+
