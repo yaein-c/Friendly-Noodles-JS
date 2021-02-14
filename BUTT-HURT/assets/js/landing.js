@@ -36,3 +36,6 @@ function openwindows() {
     window.open("https://www.ed.ac.uk");
     window.open("https://youtu.be/L_jWHffIx5E?t=36");
 }
+
+const countDownSpan = document.getElementById("seconds");
+//put in timer...

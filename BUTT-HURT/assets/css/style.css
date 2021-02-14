@@ -1,5 +1,38 @@
 /* Styles that are applicable to the entire site etc */
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@600&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background: orange;
+    padding: 20px;
+}
+
+header > h1 {
+    color: black;
+    text-align: center;
+    font-family: Asap, sans-serif;
+}
+
 body, html {
     height: 100%;
     scroll-behavior: smooth;
+    background: black;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.timer {
+    margin: 20px auto;
+    border: 3px solid white;
+    border-radius: 6px;
+    width: 200px;
+    color: white;
+    font-size: 100px;
+    text-align: center;
 }
